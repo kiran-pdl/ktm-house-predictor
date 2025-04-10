@@ -8,5 +8,6 @@ housing data.
 - Feature engineering for Nepali market
 - Model evaluation metrics
 
-## Installation
-`pip install -r requirements.txt`
+<br>
+Author: Kiran paudyal
+
